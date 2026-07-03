@@ -128,6 +128,8 @@ Answer questions locally from real retrieved document content — **zero API cos
 
 ---
 
+Link : https://docmind6.netlify.app
+
 ## Technology Stack
 
 | Layer | Technology | Purpose |
